@@ -1,1 +1,0 @@
-import{d as t,c as s,b as a,y as c,u as n,o,_ as r}from"./index-3n2qyV49.js";const u=""+new URL("launch-tIg5fwIt.jpg",import.meta.url).href,_=["src"],p=t({__name:"Launch",setup(l){const e=n();return setTimeout(()=>{e.push("/branch")},3e3),(m,f)=>(o(),s("section",null,[a("img",{src:c(u)},null,8,_)]))}}),d=r(p,[["__scopeId","data-v-ee5edfaa"]]);export{d as default};
