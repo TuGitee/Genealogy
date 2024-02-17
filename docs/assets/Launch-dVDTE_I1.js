@@ -1,1 +1,2 @@
 import{d as r,c,b as u,v as p,o as l,_ as m}from"./index-Po9proqR.js";const i=r({__name:"Launch",setup(_){const s=p();let t=0;function o(n=1e3){t&&clearTimeout(t),t=setTimeout(()=>{s.push("/branch")},n)}return(n,e)=>(l(),c("section",null,[u("img",{src:"https://s11.ax1x.com/2024/02/17/pFJkI2V.jpg",onLoad:e[0]||(e[0]=a=>o()),onClick:e[1]||(e[1]=a=>o(0))},null,32)]))}}),d=m(i,[["__scopeId","data-v-ef79bf86"]]);export{d as default};
+//# sourceMappingURL=Launch-dVDTE_I1.js.map
